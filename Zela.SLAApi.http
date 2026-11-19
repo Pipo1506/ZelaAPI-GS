@@ -1,0 +1,6 @@
+@Zela.SLAApi_HostAddress = http://localhost:5241
+
+GET {{Zela.SLAApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

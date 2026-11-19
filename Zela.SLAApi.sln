@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zela.SLAApi", "Zela.SLAApi.csproj", "{BB79CC74-3768-4422-8B6C-52FE1B1CE3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zela.SLAApi.Tests", "Zela.SLAApi.Tests\Zela.SLAApi.Tests.csproj", "{462DC1BE-194E-4F15-9A64-26A9D1628D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB79CC74-3768-4422-8B6C-52FE1B1CE3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB79CC74-3768-4422-8B6C-52FE1B1CE3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB79CC74-3768-4422-8B6C-52FE1B1CE3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB79CC74-3768-4422-8B6C-52FE1B1CE3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462DC1BE-194E-4F15-9A64-26A9D1628D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462DC1BE-194E-4F15-9A64-26A9D1628D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462DC1BE-194E-4F15-9A64-26A9D1628D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462DC1BE-194E-4F15-9A64-26A9D1628D81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
